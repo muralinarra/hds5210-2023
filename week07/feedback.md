@@ -23,4 +23,4 @@ _Did you complete and submit the multiple choice part of the assignment?_
 ## Coding Best Practices:
 _Was your code readable, efficient, and in line with what we learned in class?_
 * Generally easy to follow and undersand?
-  * **Your code is easy to follow and understand.**
+* **Your code is easy to follow and understand; however, your JSON stucture in the second function is is not indented properly, and the content is different than your first function. Please refer to Professor Boal's examples.**
